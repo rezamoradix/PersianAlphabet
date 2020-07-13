@@ -1,2 +1,5 @@
 # PersianAlphabet
 Persian Alphabet
+
+---
+ءآأؤإئابتثجحخدذرزسشصضطظعغفقلمنهوَُِّٕپچژکگھی
